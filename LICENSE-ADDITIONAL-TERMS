@@ -1,0 +1,48 @@
+ADDITIONAL TERMS — NONCOMMERCIAL RESTRICTION
+
+Copyright (c) 2026 anonymousfliphones
+
+This software is licensed under the GNU General Public License v3.0 (see
+the LICENSE file), subject to the following additional restriction. Because
+of this restriction, this software is NOT licensed under the plain GPL v3
+and is not "open source" as defined by the Open Source Initiative. It is
+source-available under "GPL v3 with Noncommercial Restriction".
+
+1. Noncommercial use only.
+
+   You may use, copy, modify, and distribute this software and derivative
+   works only for noncommercial purposes.
+
+   "Commercial purposes" means any use primarily intended for or directed
+   toward commercial advantage or monetary compensation, including but not
+   limited to:
+
+   - selling the software or a derivative, or charging for access to it;
+   - bundling it with, or preinstalling it on, a phone, product or device
+     that is sold;
+   - offering it, or functionality derived from it, as part of a paid
+     service, such as a paid phone setup, flashing or unlocking service;
+   - using it internally to deliver a paid product or service to customers.
+
+   Personal use, use by families and individuals, and use by nonprofit
+   organizations that do not charge for the resulting service are
+   noncommercial.
+
+   Commercial use requires separate written permission from the copyright
+   holder. To ask, open an issue at
+   https://github.com/anonymousfliphones/mms-device-spoof.
+
+2. Modifications must remain open.
+
+   All terms of the GPL v3 continue to apply. In particular, if you
+   distribute a modified version, you must make its complete corresponding
+   source code available under these same terms (GPL v3 plus this
+   noncommercial restriction).
+
+3. Notices.
+
+   You must preserve this file, the LICENSE file, and all copyright notices
+   in every copy or derivative you distribute.
+
+If any part of this restriction is held unenforceable, the remainder of the
+GPL v3 and these terms continue to apply.
