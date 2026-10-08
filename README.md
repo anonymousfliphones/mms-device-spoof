@@ -162,4 +162,5 @@ dependencies {
 
 ## License
 
-Apache 2.0
+[PolyForm Noncommercial License 1.0.0](LICENSE) — free for personal, research,
+and non-commercial use. Commercial use is not permitted.
