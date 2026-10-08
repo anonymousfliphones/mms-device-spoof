@@ -162,5 +162,9 @@ dependencies {
 
 ## License
 
-[PolyForm Noncommercial License 1.0.0](LICENSE) — free for personal, research,
-and non-commercial use. Commercial use is not permitted.
+Dual-licensed under [GPL-3.0](LICENSE) + [PolyForm Noncommercial 1.0.0](LICENSE):
+- Source must remain open (GPL-3.0 copyleft)
+- Commercial use is not permitted (PolyForm Noncommercial)
+- **Attribution required:** any use or derivative must credit
+  **anonymousfliphones** (https://github.com/anonymousfliphones) visibly in
+  its documentation, README, or about screen.
