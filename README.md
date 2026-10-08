@@ -127,23 +127,6 @@ MmsDeviceSpoof.apply(preset, context, subId, overrides,
 )
 ```
 
-## `MmsAudio` — MIME type normalization
-
-Verizon delivers MP3 voice notes with content-type `audio/x-mpeg3`. Android's
-`MediaPlayer` can play the file but the non-standard type breaks file-open
-intents and extension inference. `MmsAudio.normalizeMimeType()` collapses all
-known aliases to their RFC counterpart.
-
-```kotlin
-val canonical = MmsAudio.normalizeMimeType(part.contentType, part.fileName)
-// "audio/x-mpeg3" → "audio/mpeg"
-// "audio/x-amr"   → "audio/amr"
-```
-
-`MmsAudio.cacheFile()` copies a `content://mms/part/<id>` URI to a cache file,
-sniffing the true format from the leading bytes and giving it the right
-extension.
-
 ## JitPack
 
 ```groovy
